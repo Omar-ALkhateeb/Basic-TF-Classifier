@@ -1,4 +1,4 @@
-# ColorClassifier
+# Body-Type Classifier
 
 Simple tf body type Classifier with TensorFlow (Python).
 
